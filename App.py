@@ -6,7 +6,6 @@ import PyPDF2
 from docx import Document
 import base64
 from io import BytesIO
-import seaborn as sns
 
 
 import matplotlib.pyplot as plt
